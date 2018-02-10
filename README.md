@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Todo3
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.8.
@@ -25,3 +26,6 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+=======
+# angular-bootcamp
+>>>>>>> cb89f992c8ed38ad71ce1f1d54bdd8b045fb1ca9
